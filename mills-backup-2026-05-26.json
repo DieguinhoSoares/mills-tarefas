@@ -1,0 +1,496 @@
+{
+  "tasks": [
+    {
+      "id": "1778210944207",
+      "titulo": "Estudo viabilidade - renovação frota leve",
+      "obs": "Passamos hoje 25/05 a demanda para a Lavinia do corporativo",
+      "prio": "Alta",
+      "cat": "Administrativo",
+      "resp": "Francielle",
+      "prazo": "2026-06-19",
+      "status": "andamento",
+      "local": "",
+      "criadoEm": "2026-05-08"
+    },
+    {
+      "id": "1778211146100",
+      "titulo": "Estudo automação abastecimento ADM",
+      "obs": "Recebi hoje, 25/05 a proposta da Gauss. Vou apresentar para a gerência",
+      "prio": "Média",
+      "cat": "Operacional",
+      "resp": "",
+      "prazo": "2026-05-29",
+      "status": "andamento",
+      "local": "",
+      "criadoEm": "2026-05-08"
+    },
+    {
+      "id": "1778211209747",
+      "titulo": "Instalação rastreadores Next",
+      "obs": "Cobrar o Robert",
+      "prio": "Média",
+      "cat": "Operacional",
+      "resp": "Robert",
+      "prazo": "2026-05-31",
+      "status": "pendente",
+      "local": "",
+      "criadoEm": "2026-05-08"
+    },
+    {
+      "id": "1778211243918",
+      "titulo": "Adesivação da frota Next",
+      "obs": "",
+      "prio": "Média",
+      "cat": "Operacional",
+      "resp": "Robert",
+      "prazo": "2026-05-15",
+      "status": "pendente",
+      "local": "",
+      "criadoEm": "2026-05-08"
+    },
+    {
+      "id": "1778211351162",
+      "titulo": "Remoção adesivos Mason Rental",
+      "obs": "Cobrar o Noelio",
+      "prio": "Média",
+      "cat": "Operacional",
+      "resp": "Noelio",
+      "prazo": "2026-05-31",
+      "status": "pendente",
+      "local": "",
+      "criadoEm": "2026-05-08"
+    },
+    {
+      "id": "1778211391413",
+      "titulo": "Preparação Toros Fagundes",
+      "obs": "Cobrar a Emec",
+      "prio": "Média",
+      "cat": "Operacional",
+      "resp": "Francielle",
+      "prazo": "2026-05-29",
+      "status": "andamento",
+      "local": "",
+      "criadoEm": "2026-05-08"
+    },
+    {
+      "id": "1778211440371",
+      "titulo": "Migração pedágio frota Next",
+      "obs": "Concluído e já aumentado o limite de crédito",
+      "prio": "Média",
+      "cat": "Administrativo",
+      "resp": "Robert",
+      "prazo": "2026-05-25",
+      "status": "concluido",
+      "local": "",
+      "criadoEm": "2026-05-08"
+    },
+    {
+      "id": "1778211575142",
+      "titulo": "Enviar fotos p/ Klaus - Transferências Caminhões Next",
+      "obs": "Faltam fotos de 2 caminhões",
+      "prio": "Alta",
+      "cat": "Administrativo",
+      "resp": "Diogo",
+      "prazo": "2026-05-29",
+      "status": "andamento",
+      "local": "",
+      "criadoEm": "2026-05-08"
+    },
+    {
+      "id": "1778211627685",
+      "titulo": "Solicitar transferência dos veículos de venda Paulista",
+      "obs": "",
+      "prio": "Baixa",
+      "cat": "Administrativo",
+      "resp": "Francielle",
+      "prazo": "2026-05-31",
+      "status": "pendente",
+      "local": "",
+      "criadoEm": "2026-05-08"
+    },
+    {
+      "id": "1778211675833",
+      "titulo": "Agendar manutenção Strada e Saveiro Venda",
+      "obs": "Falta liberação da strada no Mariocar",
+      "prio": "Baixa",
+      "cat": "Manutenção",
+      "resp": "Francielle",
+      "prazo": "2026-05-29",
+      "status": "concluido",
+      "local": "",
+      "criadoEm": "2026-05-08"
+    },
+    {
+      "id": "1778756636871",
+      "titulo": "Engate rápido L60F SLC",
+      "obs": "",
+      "prio": "Média",
+      "cat": "Operacional",
+      "resp": "Sérgio",
+      "prazo": "2026-05-26",
+      "status": "andamento",
+      "local": "",
+      "criadoEm": "2026-05-14"
+    },
+    {
+      "id": "1779279484558",
+      "titulo": "Container no MS",
+      "obs": "Aguardando retorno do Sr. João Trevizan",
+      "prio": "Média",
+      "cat": "Operacional",
+      "resp": "João Gabriel",
+      "prazo": "2026-05-31",
+      "status": "andamento",
+      "local": "",
+      "criadoEm": "2026-05-20"
+    },
+    {
+      "id": "1778668963831",
+      "titulo": "Acompanhar embarque da Ápia Fico",
+      "obs": "",
+      "prio": "Média",
+      "cat": "Operacional",
+      "resp": "Noelio",
+      "prazo": "",
+      "status": "concluido",
+      "local": "",
+      "criadoEm": "2026-05-13"
+    },
+    {
+      "id": "1778212220793",
+      "titulo": "Cobrança Mason",
+      "obs": "",
+      "prio": "Alta",
+      "cat": "Operacional",
+      "resp": "Lilian",
+      "prazo": "2026-05-08",
+      "status": "concluido",
+      "local": "",
+      "criadoEm": "2026-05-08"
+    },
+    {
+      "id": "1778756424155",
+      "titulo": "Engate rápido SLC Volvo",
+      "obs": "",
+      "prio": "Média",
+      "cat": "Operacional",
+      "resp": "Sérgio",
+      "prazo": "2026-05-26",
+      "status": "concluido",
+      "local": "Sumaré",
+      "criadoEm": "2026-05-14"
+    },
+    {
+      "id": "1778210826700",
+      "titulo": "Envio container de peças - Mills Leves Uberlândia",
+      "obs": "",
+      "prio": "Alta",
+      "cat": "Operacional",
+      "resp": "Noelio",
+      "prazo": "2026-05-12",
+      "status": "concluido",
+      "local": "",
+      "criadoEm": "2026-05-08"
+    },
+    {
+      "id": "1778211017390",
+      "titulo": "Atualização Kanban das oficinas",
+      "obs": "",
+      "prio": "Média",
+      "cat": "Administrativo",
+      "resp": "Bianca",
+      "prazo": "2026-05-08",
+      "status": "concluido",
+      "local": "",
+      "criadoEm": "2026-05-08"
+    },
+    {
+      "id": "1778211716114",
+      "titulo": "Transporte Volvo L120e TGG p/ Sumaré",
+      "obs": "",
+      "prio": "Alta",
+      "cat": "Operacional",
+      "resp": "Noelio",
+      "prazo": "2026-05-08",
+      "status": "concluido",
+      "local": "",
+      "criadoEm": "2026-05-08"
+    },
+    {
+      "id": "1778211105757",
+      "titulo": "Montar apresentação S&Op",
+      "obs": "",
+      "prio": "Alta",
+      "cat": "Operacional",
+      "resp": "Luana",
+      "prazo": "2026-05-11",
+      "status": "concluido",
+      "local": "",
+      "criadoEm": "2026-05-08"
+    },
+    {
+      "id": "1778236777776",
+      "titulo": "Frete EGF 1212",
+      "obs": "",
+      "prio": "Média",
+      "cat": "Operacional",
+      "resp": "Noelio",
+      "prazo": "2026-05-08",
+      "status": "concluido",
+      "local": "",
+      "criadoEm": "2026-05-08"
+    },
+    {
+      "id": "1778236745425",
+      "titulo": "Frete Cevasa 1099 aguardando de acordo",
+      "obs": "",
+      "prio": "Média",
+      "cat": "Operacional",
+      "resp": "Noelio",
+      "prazo": "2026-05-08",
+      "status": "concluido",
+      "local": "",
+      "criadoEm": "2026-05-08"
+    },
+    {
+      "id": "1778211303973",
+      "titulo": "Migração abastecimento frota Next",
+      "obs": "",
+      "prio": "Alta",
+      "cat": "Operacional",
+      "resp": "Robert",
+      "prazo": "2026-05-08",
+      "status": "concluido",
+      "local": "",
+      "criadoEm": "2026-05-08"
+    },
+    {
+      "id": "1778235877393",
+      "titulo": "Alugar carro semana 20",
+      "obs": "",
+      "prio": "Média",
+      "cat": "Operacional",
+      "resp": "Francielle",
+      "prazo": "2026-05-09",
+      "status": "concluido",
+      "local": "",
+      "criadoEm": "2026-05-08"
+    },
+    {
+      "id": "1778236849849",
+      "titulo": "Frete Fagundes",
+      "obs": "",
+      "prio": "Média",
+      "cat": "Operacional",
+      "resp": "Noelio",
+      "prazo": "2026-05-08",
+      "status": "concluido",
+      "local": "",
+      "criadoEm": "2026-05-08"
+    }
+  ],
+  "members": [
+    {
+      "id": "m1",
+      "nome": "Noelio",
+      "celula": "Logística",
+      "cargo": "Analista"
+    },
+    {
+      "id": "m2",
+      "nome": "Rudkeler",
+      "celula": "Gestão de Ativos",
+      "cargo": "Analista"
+    },
+    {
+      "id": "m3",
+      "nome": "Francielle",
+      "celula": "Frota Leve",
+      "cargo": "Analista"
+    },
+    {
+      "id": "m4",
+      "nome": "Bianca",
+      "celula": "Gestão de Ativos",
+      "cargo": "Analista"
+    },
+    {
+      "id": "m5",
+      "nome": "Luana",
+      "celula": "Frota Leve",
+      "cargo": "Analista"
+    },
+    {
+      "id": "m6",
+      "nome": "Robert",
+      "celula": "Frota Leve",
+      "cargo": "Analista"
+    },
+    {
+      "id": "m7",
+      "nome": "Diogo",
+      "celula": "Frota Leve",
+      "cargo": "Coordenador"
+    },
+    {
+      "id": "m8",
+      "nome": "Lilian",
+      "celula": "Frota Leve",
+      "cargo": "Analista"
+    },
+    {
+      "id": "m9",
+      "nome": "João Gabriel",
+      "celula": "Logística",
+      "cargo": "Analista"
+    },
+    {
+      "id": "m10",
+      "nome": "Sérgio",
+      "celula": "Logística",
+      "cargo": "Motorista"
+    }
+  ],
+  "templates": [
+    {
+      "id": "t1",
+      "titulo": "Inspeção semanal de frota",
+      "prio": "Alta",
+      "cat": "Inspeção"
+    },
+    {
+      "id": "t2",
+      "titulo": "Relatório mensal PCM",
+      "prio": "Média",
+      "cat": "PCM"
+    },
+    {
+      "id": "t3",
+      "titulo": "Verificação de documentação",
+      "prio": "Média",
+      "cat": "Administrativo"
+    }
+  ],
+  "history": [
+    {
+      "type": "edit",
+      "text": "Tarefa editada: Container no MS",
+      "ts": 1779757655193
+    },
+    {
+      "type": "edit",
+      "text": "Tarefa editada: Agendar manutenção Strada e Saveiro Venda",
+      "ts": 1779755415053
+    },
+    {
+      "type": "edit",
+      "text": "Tarefa editada: Enviar fotos p/ Klaus - Transferências Caminhões Next",
+      "ts": 1779755368896
+    },
+    {
+      "type": "edit",
+      "text": "Tarefa editada: Preparação Toros Fagundes",
+      "ts": 1779755324773
+    },
+    {
+      "type": "edit",
+      "text": "Tarefa editada: Engate rápido SLC Volvo",
+      "ts": 1779755282668
+    },
+    {
+      "type": "edit",
+      "text": "Tarefa editada: Engate rápido L60F SLC",
+      "ts": 1779755245032
+    },
+    {
+      "type": "edit",
+      "text": "Tarefa editada: Engate rápido SLC Volvo",
+      "ts": 1779755211476
+    },
+    {
+      "type": "edit",
+      "text": "Tarefa editada: Migração pedágio frota Next",
+      "ts": 1779755179103
+    },
+    {
+      "type": "edit",
+      "text": "Tarefa editada: Remoção adesivos Mason Rental",
+      "ts": 1779755014425
+    },
+    {
+      "type": "edit",
+      "text": "Tarefa editada: Instalação rastreadores Next",
+      "ts": 1779754993953
+    },
+    {
+      "type": "edit",
+      "text": "Tarefa editada: Estudo automação abastecimento ADM",
+      "ts": 1779754964447
+    },
+    {
+      "type": "edit",
+      "text": "Tarefa editada: Estudo viabilidade - renovação frota leve",
+      "ts": 1779754884409
+    },
+    {
+      "type": "done",
+      "text": "Concluída: Acompanhar embarque da Ápia Fico",
+      "ts": "2026-05-22"
+    },
+    {
+      "type": "done",
+      "text": "Concluída: Cobrança Mason",
+      "ts": "2026-05-15"
+    },
+    {
+      "type": "done",
+      "text": "Concluída: Engate rápido SLC Volvo",
+      "ts": "2026-05-14"
+    },
+    {
+      "type": "done",
+      "text": "Concluída: Envio container de peças - Mills Leves Uberlândia",
+      "ts": "2026-05-13"
+    },
+    {
+      "type": "done",
+      "text": "Concluída: Atualização Kanban das oficinas",
+      "ts": "2026-05-13"
+    },
+    {
+      "type": "done",
+      "text": "Concluída: Transporte Volvo L120e TGG p/ Sumaré",
+      "ts": "2026-05-13"
+    },
+    {
+      "type": "done",
+      "text": "Concluída: Montar apresentação S&Op",
+      "ts": "2026-05-12"
+    },
+    {
+      "type": "done",
+      "text": "Concluída: Frete EGF 1212",
+      "ts": "2026-05-12"
+    },
+    {
+      "type": "done",
+      "text": "Concluída: Frete Cevasa 1099 aguardando de acordo",
+      "ts": "2026-05-11"
+    },
+    {
+      "type": "done",
+      "text": "Concluída: Migração abastecimento frota Next",
+      "ts": "2026-05-08"
+    },
+    {
+      "type": "done",
+      "text": "Concluída: Alugar carro semana 20",
+      "ts": "2026-05-08"
+    },
+    {
+      "type": "done",
+      "text": "Concluída: Frete Fagundes",
+      "ts": "2026-05-08"
+    }
+  ]
+}
